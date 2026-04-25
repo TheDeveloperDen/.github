@@ -43,6 +43,7 @@ For advanced users interested in functional programming or more uncommon languag
 | :-------------------------------------------------------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------ |
 | [**Website**](https://github.com/TheDeveloperDen/website)             | Elm        | Our main website, written purely functionally using Elm. **Note - this project will potentially be rewritten soon** |
 | [**Templatespiler**](https://github.com/codosseum-org/templatespiler) | Haskell    | A templating engine for code snippets, used in **Codosseum** to provide solution stubs                              |
+| [**DevDenOS**](https://github.com/TheDeveloperDen/DevDenOS)    | Assembly | A slightly silly "operating system" themed around this Discord server! 
 
 ### Suggestions
 
